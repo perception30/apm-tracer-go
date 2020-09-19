@@ -1,4 +1,4 @@
-module github.com/perception30/apm-tracer-go
+module github.com/perception30/apmtrace
 
 go 1.15
 

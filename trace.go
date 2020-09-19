@@ -1,4 +1,4 @@
-package middleware
+package apmtrace
 
 import (
 	"net/http"
