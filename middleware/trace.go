@@ -1,4 +1,4 @@
-package custom_trace
+package middleware
 
 import (
 	"net/http"
