@@ -1,4 +1,4 @@
-package apm_tracer_go
+package custom_trace
 
 import (
 	"net/http"
